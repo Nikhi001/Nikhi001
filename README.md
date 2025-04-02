@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhi001" alt="nikhi001" /></a> </p>
 
-- 🔭 I’m currently working on **Warehouse And Retails Sales**
+- 🔭 I’m currently **looking for my Exisiting**
 
 - 📝 I regularly write articles on [@nikhilumredkar81](@nikhilumredkar81)
 
